@@ -1,0 +1,5 @@
+id=Xiaomi-SOTA-Module-Bin
+name=Xiaomi SOTA Module 依赖
+author=柚稚
+description=存放用于Xiaomi SOTA所需要的二进制文件
+updateJson=https://github.com/zjw2017/Xiaomi-SOTA-Module-Bin/blob/main/module.json
